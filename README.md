@@ -404,34 +404,6 @@ GitHub Actions can run these checks automatically during development.
 
 ---
 
-# 📸 Screenshots
-
-Add application screenshots here after deployment.
-
-Example:
-
-```markdown
-## Screenshots
-
-### Login
-
-![Login](screenshots/login.png)
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Task Management
-
-![Tasks](screenshots/tasks.png)
-
-### Team Management
-
-![Team](screenshots/team.png)
-```
-
----
-
 # 🔮 Future Improvements
 
 * Stripe subscription and billing
