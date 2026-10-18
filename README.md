@@ -1,4 +1,4 @@
-# TeamSpace — Multi-Tenant Project & Task Management SaaS
+# Multi-Tenant Project & Task Management SaaS
 
 Full-stack Django + DRF + React.js + MySQL application. Separate companies use private workspaces; tenant filters and role permissions are enforced by the **Django REST API**, not only in React.
 
