@@ -11,3 +11,12 @@ media/
 staticfiles/
 dist/
 build/
+# Generated Cloudflare Worker artifacts
+.wrangler/
+**/.wrangler/
+
+# Generated Python Worker dependencies
+backend/python_modules/
+
+# Temporary Python Worker upload test
+cf-python-upload-probe/
